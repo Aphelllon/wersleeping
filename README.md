@@ -1,3 +1,3 @@
 # wersleeping
 printf("uyuyoruz");
-print(for now)
+print("for now")
